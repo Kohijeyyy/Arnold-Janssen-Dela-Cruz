@@ -1,24 +1,25 @@
-Hi there , I'm Arnold Dela Cruz
+Hi there 👋, I'm Arnold Janssen L. Dela Cruz
+🌱 About Me
 
-**About Me**
-•  BSIT Student at Laguna State Polytechnic University
-•  Currently learning Python, Java, PostgreSQL Flask, SQL, Flutter, and Dart
+🎓 BSIT student
 
-•  Goal: To become a skilled Web and Mobile Application Developer
+💻 Currently learning Python and Java
 
-•  Interested in Software Development, Cloud Computing, and UI/UX Design Skills
+🛠️ Knowledgeable in PostgreSQL, Flask, and Dart
 
-•  Languages: Python, Dart, SQL
+🎨 Interested in UI/UX design and building user-friendly applications
 
-•  Frameworks/Tools: Flask, Flutter, Git, GitHub
+🔐 Exploring the world of Cybersecurity
 
-•  Other: Database Management, Web Development Basics Current Projects
+🚀 Goals
 
-•  Learning Git and GitHub for version control
+-Improve my coding and problem-solving skills
 
-•  Developing practice projects in Python and Flutter
+-Build projects that combine good design with functionality
 
-•  Creating small apps as portfolio projects
+-Gain deeper knowledge in cybersecurity
 
- Connect with Me
-• Email: djanssen985@gmail.com
+-Contribute to open-source projects and grow as a developer
+
+📫 Connect with Me
+Email - djanssen985@gmail.com
